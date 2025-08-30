@@ -1,6 +1,7 @@
 uWABOT by BedMan95
 
 usage
+* install `nodejs` & `npm`
 * open project, then init the project
   `npm init -y`
 * install depedency
